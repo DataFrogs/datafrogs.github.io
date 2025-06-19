@@ -27,7 +27,8 @@ Les sessions seront disponibles pour tous, et les enregistrements seront ensuite
 | 09h00 | [Retour d'expérience client sur le change data capture et la gestion des opérations DDL]({{< relref path="#cdc" >}}) | [Clément Hugé](https://www.linkedin.com/in/clementhuge/) | [Lien Teams à venir]() |
 | 10h15 | [Les Nouveautés dans SQL Server 2025, IA ready !]({{< relref path="#sql2025" >}}) | [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) et [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) | [Lien Teams à venir]() |
 | 11h30 | [Verrouillage optimiste vs pessimiste… Les implémentations dans les SGBDR]({{< relref path="#verrouillage" >}}) | [Frédéric Brouard, SQL Spot](https://www.linkedin.com/in/frederic-brouard-alias-sqlpro-914761) | [Lien Teams à venir]() |
-| 14h00 | [Table Ronde : Vos trucs et astucs pour SQL Server ?]({{< relref path="#tableronde" >}}) | tout le monde | [Lien Teams à venir]() |
+| 13h30 | [Les synonymes dans SQL Server + Projet SQL Server dans Visual Studio]({{< relref path="#synonymes" >}}) | [Sébastien Kobenan](https://www.linkedin.com/in/sebastien-kobenan/) | [Lien Teams à venir]() |
+| 15h15 | [Table Ronde : Vos trucs et astucs pour SQL Server ?]({{< relref path="#tableronde" >}}) | tout le monde | [Lien Teams à venir]() |
 
 ## Programme détaillé
 
@@ -56,7 +57,29 @@ Oracle, PostgreSQL, SQL Server : chacun a sa philosophie du verrou. Frédéric B
 Dans cette session, Frédéric Brouard explore les mécanismes de gestion de la concurrence dans les principaux SGBDR du marché. Vous verrez comment Oracle, PostgreSQL et SQL Server mettent en œuvre les stratégies de verrouillage optimiste et pessimiste, aussi bien au niveau des transactions que du moteur.
 Un focus détaillé sur SQL Server permettra d’illustrer les subtilités des niveaux d’isolation, du snapshot isolation, du row versioning, des verrous explicites et implicites, et des impacts sur les performances. Une session indispensable pour tous ceux qui conçoivent des applications transactionnelles robustes.
 
-### 14h00 &#10148; Table Ronde : Vos trucs et astucs pour SQL Server ? {#tableronde}
+### 13h30 &#10148; Les synonymes dans SQL Server + Projet SQL Server dans Visual Studio {#synonymes"} 
+
+[_Sébastien Kobenan_](https://www.linkedin.com/in/sebastien-kobenan/)
+
+**Sujet 1 : Les synonymes dans SQL Server**
+
+Vous avez une ou plusieurs bases de données SQL Server. 
+
+Vous avez plusieurs applications clientes qui utilisent ces bases de données
+
+Vous venez d'adopter une nouvelle convention de nommage pour les objets (tables, procédures stockées, fonctions, etc.) de vos bases de données 
+
+Comment modifier les noms de vos objets sans impacter les applications clientes ?
+
+C'est ce que je vous propose de voir aux travers des synonymes dans SQL Server.
+
+**Sujet 2 : Projet SQL Server dans Visual Studio**
+
+Vous développez une base de données SQL Server et vous souhaitez pouvoir versionner le code via git ? Cette session est  faite pour vous.
+
+Nous allons voir comment créer un projet de base de données dans Visual Studio, versionner et déployer le code sur un ou plusieurs serveurs de base de données.
+
+### 15h15 &#10148; Table Ronde : Vos trucs et astucs pour SQL Server ? {#tableronde}
 
 Session collective à micros ouverts
 
