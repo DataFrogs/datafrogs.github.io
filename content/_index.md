@@ -1,0 +1,71 @@
++++
+date = '2025-06-18T08:02:05+02:00'
+draft = true
+title = 'Conférences DataFrogs'
++++
+
+DataFrogs est une conférence communautaire gratuite sur Microsoft SQL Server.
+
+<!--more-->
+
+## Samedi 28 juin 2025, en ligne
+
+DataFrogs est une conférence communautaire gratuite sur Microsoft SQL Server.
+
+La session 2025.06 aura lieu le samedi 28 juin en virtuel (Les liens pour les sessions Microsoft Teams seront disponibles quelques jours avant la conférence).
+
+Inscrivez-vous sur [LinkedIn Events](https://www.linkedin.com/events/datafrogs2025-067322990104753471488) pour obtenir les informations pratiques.
+
+Il y aura cette fois-ci cinq sessions, la conférence se tiendra du matin jusqu'en fin d'après-midi. La dernière session sera une session _Questions/Réponses_ où vous pourrez poser vos questions, partager vos expériences, etc. à micros ouverts. Profitez-en !
+
+Les sessions seront disponibles pour tous, et les enregistrements seront ensuite posés sur [la chaîne YouTube de DataFrogs](https://www.youtube.com/@datafrogs).
+
+## Programme
+
+| Heure | Session | Qui | Lien |
+| -------- | ------ | ------ | ------ |
+| 09h00 | [Retour d'expérience client sur le change data capture et la gestion des opérations DDL]({{< relref path="#cdc" >}}) | [Clément Hugé](https://www.linkedin.com/in/clementhuge/) | [Lien Teams à venir]() |
+| 10h15 | [Les Nouveautés dans SQL Server 2025, IA ready !]({{< relref path="#sql2025" >}}) | [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) et [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) | [Lien Teams à venir]() |
+| 11h30 | [Verrouillage optimiste vs pessimiste… Les implémentations dans les SGBDR]({{< relref path="#verrouillage" >}}) | [Frédéric Brouard, SQL Spot](https://www.linkedin.com/in/frederic-brouard-alias-sqlpro-914761) | [Lien Teams à venir]() |
+| 14h00 | [Table Ronde : Vos trucs et astucs pour SQL Server ?]({{< relref path="#tableronde" >}}) | tout le monde | [Lien Teams à venir]() |
+
+## Programme détaillé
+
+### 09h00 &#10148; Retour d'expérience client sur le change data capture et la gestion des opérations DDL {#cdc}
+
+[_Clément Hugé_](https://www.linkedin.com/in/clementhuge/)
+
+Après une rapide présentation de la fonctionalité et des avantages et inconvénients, nous nous attardderons sur un cas client où CHDS LLC a implémenté une solution élégante pour synchroniser les événements capturés avec les changements de structure. Nous verrons les avantages et inconvénients et comment cette implémentation a permis de réduire les regression de performance dans un contexte de déploiement CICD.
+
+### 10h15 &#10148; Les Nouveautés dans SQL Server 2025, IA ready ! {#sql2025}
+
+[_Julien Pierre, Microsoft_](https://www.linkedin.com/in/julien-pierre-15782127/) et [_Stéphane Scherrer, Microsoft_](https://www.linkedin.com/in/stephanescherrer/)
+
+SQL Server 2025 : l’IA s’invite au moteur
+
+SQL Server 2025 est bientôt là, et il est prêt pour l'IA ! Découvrez les dernières avancées du moteur SQL Server, avec une attention particulière sur les nouvelles fonctionnalités d'IA générative. Julien Pierre et Stéphane Scherrer (Microsoft) vous guideront à travers les nouveautés majeures, y compris les améliorations de performance, la gestion des données vectorielles, et les optimisations du Query Processor. Préparez-vous à explorer comment SQL Server 2025 transforme la gestion des données et ouvre de nouvelles perspectives pour les développeurs, les DBA et les architectes de données.
+
+### 11h30 &#10148; Verrouillage optimiste vs pessimiste… Les implémentations dans les SGBDR {#verrouillage}
+
+[_Frédéric Brouard, SQL Spot_](https://www.linkedin.com/in/frederic-brouard-alias-sqlpro-914761)
+
+**Optimiste ou pessimiste ? Le vrai visage du verrouillage selon votre SGBD**
+
+Oracle, PostgreSQL, SQL Server : chacun a sa philosophie du verrou. Frédéric Brouard (alias SQLPro) vous propose un tour d’horizon comparé des stratégies de verrouillage optimiste et pessimiste, avec un focus approfondi sur SQL Server. Parce que comprendre les choix du moteur, c’est déjà optimiser vos transactions.
+
+Dans cette session, Frédéric Brouard explore les mécanismes de gestion de la concurrence dans les principaux SGBDR du marché. Vous verrez comment Oracle, PostgreSQL et SQL Server mettent en œuvre les stratégies de verrouillage optimiste et pessimiste, aussi bien au niveau des transactions que du moteur.
+Un focus détaillé sur SQL Server permettra d’illustrer les subtilités des niveaux d’isolation, du snapshot isolation, du row versioning, des verrous explicites et implicites, et des impacts sur les performances. Une session indispensable pour tous ceux qui conçoivent des applications transactionnelles robustes.
+
+### 14h00 &#10148; Table Ronde : Vos trucs et astucs pour SQL Server ? {#tableronde}
+
+Session collective à micros ouverts
+
+**Trucs, astuces et confidences de SQL Server**
+
+Une table ronde à micros ouverts pour partager vos meilleures trouvailles, vos scripts préférés, vos contournements maison… et vos plus beaux moments de solitude avec SQL Server.
+
+Vous avez un script que vous recyclez depuis 10 ans ? Une astuce de plan d’exécution que même le Query Optimizer ignore ? Venez partager vos pratiques, outils, paramètres et observations dans cette session collective animée par la communauté.
+
+Indexation, requêtes, configuration, supervision, sécurité, performances… Tous les sujets sont les bienvenus, dans une ambiance bienveillante et technique.
+
+Et au pire, on demandera à ChatGPT.

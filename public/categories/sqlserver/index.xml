@@ -1,0 +1,399 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DataFrogs Conference – Sqlserver</title>
+    <link>http://localhost:1313/categories/sqlserver/</link>
+    <description>Recent content in Sqlserver on DataFrogs Conference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/categories/sqlserver/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>DataFrogs 2025.01</title>
+      <link>http://localhost:1313/docs/datafrogs-2025.01.fr/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/datafrogs-2025.01.fr/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Inscrivez-vous sur &lt;a href=&#34;https://www.linkedin.com/events/datafrogsjuin20247183857787653750784/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn Events&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;Samedi 28 juin 2025, en ligne&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;samedi-28-juin-2025-en-ligne&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#samedi-28-juin-2025-en-ligne&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;DataFrogs est une conférence communautaire gratuite sur Microsoft SQL Server.&lt;/p&gt;
+&lt;p&gt;Cette session aura lieu le samedi 28 juin 2025, en virtuel (Les liens pour les sessions Microsoft Teams seront disponibles quelques jours avant la conférence).&lt;/p&gt;
+&lt;p&gt;Inscrivez-vous sur &lt;a href=&#34;https://www.linkedin.com/events/datafrogsjuin20247183857787653750784/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn Events&lt;/a&gt; pour obtenir les informations pratiques.&lt;/p&gt;
+&lt;p&gt;Les sessions seront disponibles pour tous, et les enregistrements seront ensuite posés sur &lt;a href=&#34;https://www.youtube.com/@datafrogs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;la chaîne YouTube de DataFrogs&lt;/a&gt;.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>DataFrogs 2024.01</title>
+      <link>http://localhost:1313/docs/datafrogs-2024.01.fr/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/datafrogs-2024.01.fr/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Inscrivez-vous sur &lt;a href=&#34;https://www.linkedin.com/events/datafrogsjuin20247183857787653750784/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn Events&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;Samedi 1 juin 2024, en ligne&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;samedi-1-juin-2024-en-ligne&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#samedi-1-juin-2024-en-ligne&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;DataFrogs est une conférence communautaire gratuite sur Microsoft SQL Server.&lt;/p&gt;
+&lt;p&gt;Cette session aura lieu le samedi 1 juin 2024, en virtuel (Les liens pour les sessions Microsoft Teams seront disponibles quelques jours avant la conférence).&lt;/p&gt;
+&lt;p&gt;Inscrivez-vous sur &lt;a href=&#34;https://www.linkedin.com/events/datafrogsjuin20247183857787653750784/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn Events&lt;/a&gt; pour obtenir les informations pratiques.&lt;/p&gt;
+&lt;p&gt;Il y aura cette fois-ci cinq sessions, la conférence se tiendra du matin jusqu&amp;rsquo;en fin d&amp;rsquo;après-midi. La dernière session sera une session &lt;em&gt;Questions/Réponses&lt;/em&gt; où vous pourrez poser vos questions, partager vos expériences, etc. à micros ouverts. Profitez-en !&lt;/p&gt;
+&lt;p&gt;Les sessions seront disponibles pour tous, et les enregistrements seront ensuite posés sur &lt;a href=&#34;https://www.youtube.com/@datafrogs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;la chaîne YouTube de DataFrogs&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Programme&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;programme&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#programme&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Heure&lt;/th&gt;
+          &lt;th&gt;Session&lt;/th&gt;
+          &lt;th&gt;Qui&lt;/th&gt;
+          &lt;th&gt;Lien&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09h00&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#arc&#34; &gt;Azure Arc SQL&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/julien-pierre-15782127/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julien Pierre, Microsoft&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/richard-prade-81155b8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richard Prade, Microsoft&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjI2NGI0NmEtY2Y0OS00Y2M2LTgzZjItNzQ4YjIyM2YwMGFl%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10h15&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#nouveautes&#34; &gt;Les Dernières Nouveautés Azure SQL Database et On-Prem&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/julien-pierre-15782127/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julien Pierre, Microsoft&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/richard-prade-81155b8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richard Prade, Microsoft&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTM0YjgyMTktNzAyNi00Y2I2LTgxYzctZTI4Mjg4NTFkZjJi%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11h30&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#CasClient&#34; &gt;Cas Client: amélioration des performances et de la maintenance des tables volumétriques et fortement sollicitées&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/clementhuge/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clément Hugé&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2IyNjM1YWYtNmFlYy00YWViLWEwZjctODkyMDUwOTY4NmJk%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13h30&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#nettoyage&#34; &gt;Nettoyage des instances et bases de données SQL Server&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/frederic-brouard-alias-sqlpro-914761&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frédéric Brouard, SQL Spot&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/arianpapillon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arian Papillon, Datafly, MVP&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmQzNTZiMWQtMWVkZS00NDVjLWExOTMtMTQwM2ExNjgwMGQ2%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14h45&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#Cloud&#34; &gt;Migration de base de données SQL vers le cloud - Retour d&amp;rsquo;expérience&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/mikedavem/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Barabarin, Migros Online&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjY1MGQ3YWUtYjVlYS00ZDU2LThjNDYtZGUzOTViZGFiZGU1%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16h00&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#QA&#34; &gt;Questions / Réponses aux experts SQL - session collective à micros ouverts&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Micros ouverts&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGU0MDM1OTktZmExOC00NjQ0LTljYmQtNDkzYWY4YzVkMjk5%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Programme détaillé&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;programme-détaillé&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#programme-d%c3%a9taill%c3%a9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;09h00 ➤ Azure Arc SQL&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;arc&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#arc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/julien-pierre-15782127/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Julien Pierre, Microsoft&lt;/em&gt;&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/richard-prade-81155b8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Richard Prade, Microsoft&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Azure Arc étend les services Azure aux instances SQL Server hébergées en dehors d’Azure.&lt;/p&gt;
+&lt;p&gt;Azure Arc vous permet donc de gérer toutes vos instances SQL Server à partir d&amp;rsquo;un point de contrôle unique : Azure. Julien et Richard vous présentent cette technologie et vous montrent comment l&amp;rsquo;utiliser pour gérer vos instances SQL Server.&lt;/p&gt;
+&lt;h3&gt;10h15 ➤ Les Dernières Nouveautés Azure SQL Database et On-Prem&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;nouveautes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#nouveautes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/julien-pierre-15782127/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Julien Pierre, Microsoft&lt;/em&gt;&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/richard-prade-81155b8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Richard Prade, Microsoft&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Les dernières nouveautés de SQL Server 2022 et Azure SQL Database. Toutes fraîches.&lt;/p&gt;
+&lt;h3&gt;11h30 ➤ Cas Client: amélioration des performances et de la maintenance des tables volumétriques et fortement sollicitées&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;CasClient&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#CasClient&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/clementhuge/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Clément Hugé&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comment résoudre des problèmes de maintenance et de performance avec le partitionnement de données, en étant sur l&amp;rsquo;édition standard de SQL server 2022 ? Clément présentera un cas concret chez un client chez Google Cloud qui a mis en place une architecture découplée pour intégrer les mesures et configurations des équipements sur le terrain vers une base de données centralisée MSSQL server sur la plateforme managée Google Cloud SQL.&lt;/p&gt;
+&lt;p&gt;Clément présentera l&amp;rsquo;architecture découplée, la méthodologie des tests de sollicitation et la mise en place de la nouvelle structure des tables.&lt;/p&gt;
+&lt;h3&gt;13h30 ➤ Nettoyage des instances et bases de données SQL Server&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;nettoyage&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#nettoyage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/frederic-brouard-alias-sqlpro-914761&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Frédéric Brouard, SQL Spot&lt;/em&gt;&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/arianpapillon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Arian Papillon, Datafly, MVP&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Combien de login avez vous qui ne servent plus à rien ?&lt;/li&gt;
+&lt;li&gt;Combien d&amp;rsquo;utilisateurs SQL sont orphelins dans mes bases ?&lt;/li&gt;
+&lt;li&gt;Méfions nous de l&amp;rsquo;impersonalisation&amp;hellip; EXECUTE AS !&lt;/li&gt;
+&lt;li&gt;Combien de bases ne sont plus accédées ?&lt;/li&gt;
+&lt;li&gt;Combien de fichiers de données ou de groupes de fichiers sont vides ?&lt;/li&gt;
+&lt;li&gt;Combien de table ne sont plus accédés ?&lt;/li&gt;
+&lt;li&gt;Combien d&amp;rsquo;index ne sont plus utilisés ?&lt;/li&gt;
+&lt;li&gt;Combien d&amp;rsquo;index sont redondants ou inclus ?&lt;/li&gt;
+&lt;li&gt;Combien de statistiques sont redondantes ?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;14h45 ➤ Migration de base de données SQL vers le cloud - Retour d&amp;rsquo;expérience&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;Cloud&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#Cloud&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/mikedavem/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;David Barabarin, Migros Online&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Si vous envisagez de migrer votre plateforme de base de données SQL vers Azure, cette session suscitera certainement votre intérêt avec un retour d&amp;rsquo;expérience concret de migration dans le cadre d&amp;rsquo;une stratégie cloud first et d&amp;rsquo;un environnement orienté devops et microservices.&lt;/p&gt;
+&lt;p&gt;Bien que ce projet de migration ait été vaste, nous mettrons un accent particulier sur la partie plateforme de base de données incluant plusieurs chapitres tels que les objectifs business, la collaboration, la planification, les phases de conception de l&amp;rsquo;architecture cloud et défis techniques à relever pour réussir cette migration.&lt;/p&gt;
+&lt;h3&gt;16h00 ➤ Questions / Réponses aux experts SQL&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;QA&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#QA&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Session collective à micros ouverts&lt;/p&gt;
+&lt;p&gt;Question ? Anecdotes ? Retours d&amp;rsquo;expérience ? Venez discuter avec nous !&lt;/p&gt;
+&lt;p&gt;Si les experts ne savent pas, on demandera à ChatGPT.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>DataFrogs 2023.02</title>
+      <link>http://localhost:1313/docs/datafrogs-2023.02.fr/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/datafrogs-2023.02.fr/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Inscrivez-vous sur &lt;a href=&#34;https://www.linkedin.com/events/datafrogs2023-027094267767230513152/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn Events&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;Samedi 14 octobre 2023, en ligne&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;samedi-14-octobre-2023-en-ligne&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#samedi-14-octobre-2023-en-ligne&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;DataFrogs est une conférence communautaire gratuite sur Microsoft SQL Server.&lt;/p&gt;
+&lt;p&gt;Cette session aura lieu le samedi 14 octobre 2023, en virtuel (Les liens pour les sessions Microsoft Teams seront disponibles quelques jours avant la conférence).&lt;/p&gt;
+&lt;p&gt;Inscrivez-vous sur &lt;a href=&#34;https://www.linkedin.com/events/datafrogs2023-027094267767230513152/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn Events&lt;/a&gt; pour obtenir les informations pratiques.&lt;/p&gt;
+&lt;p&gt;Il y aura cette fois-ci six sessions, la conférence se tiendra du matin jusqu&amp;rsquo;en fin d&amp;rsquo;après-midi. La dernière session sera une session &lt;em&gt;discussion&lt;/em&gt; où vous pourrez poser vos questions, partager vos expériences, etc. à micros ouverts. Profitez-en, beaucoup de gens de Microsoft seront présents !&lt;/p&gt;
+&lt;p&gt;Les sessions seront disponibles pour tous, et les enregistrements seront ensuite posés sur &lt;a href=&#34;https://www.youtube.com/@datafrogs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;la chaîne YouTube de DataFrogs&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Programme&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;programme&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#programme&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Heure&lt;/th&gt;
+          &lt;th&gt;Session&lt;/th&gt;
+          &lt;th&gt;Qui&lt;/th&gt;
+          &lt;th&gt;Lien&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09h00&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#Hybride&#34; &gt;SQL Server Hybride Azure&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/stephanescherrer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stéphane Scherrer, Microsoft&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/richard-prade-81155b8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richard Prade, Microsoft&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_MThjZmNmNGItZTIzMy00MDg3LThlNTAtN2RhYTVmMThmYjAw%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10h15&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#Privileges&#34; &gt;La gestion des droits dans SQL Server&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/sebastien-kobenan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sébastien Kobenan&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ5NjFiMzgtNzU2My00ZmQ0LWFkNTYtZmFiMzBmYzYyYWI3%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11h30&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#AlwaysOn&#34; &gt;Migrer un groupe de disponibilité AlwaysOn sans perte du cluster&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/stephanescherrer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stéphane Scherrer, Microsoft&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sylvain Pagès, Devoteam&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjAxZTdhNjktNDljNC00MmVhLWIyYWQtZjljMjhmM2VhZmUw%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13h30&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#OLAP&#34; &gt;Faire cohabiter le décisionnel et le Transactionnel dans SQL Server&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/amar-adghar-22b300155/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amar Adghar, Microsoft&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/julien-pierre-15782127/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julien Pierre, Microsoft&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmZmZjA5ODMtZTgwYS00MzdlLWJhODgtMDRiZTA1NjI2NTY5%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14h45&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#QueryHints&#34; &gt;Utiliser les indicateurs de requêtes pour aider l&amp;rsquo;optimiseur&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/arianpapillon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arian Papillon, Datafly, MVP&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDA2YzY3Y2UtNDU1NC00ZDQxLWE5NGYtMmYzNjliMTRmZGYz%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16h00&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#chat&#34; &gt;Discussion !&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Tout le monde&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODJmYjZmYjktYjMxNS00NGMwLTlkOGMtZjBmMzNlOTJmMDYw%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lien Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Programme détaillé&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;programme-détaillé&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#programme-d%c3%a9taill%c3%a9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;09h00 ➤ SQL Server Hybride Azure&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;Hybride&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#Hybride&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/stephanescherrer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Stéphane Scherrer, Microsoft&lt;/em&gt;&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/richard-prade-81155b8/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Richard Prade, Microsoft&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Même si vous voulez garder les données chez vous, l’hybridation vous permet d’ouvrir de nouveaux horizons avec SQL Server 2022.&lt;/p&gt;
+&lt;p&gt;Sujets abordés :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ce qu’apporte SQL Server 2022.&lt;/li&gt;
+&lt;li&gt;C’est quoi l’hybride ?&lt;/li&gt;
+&lt;li&gt;Les tableaux de bords globaux et les outils pour se simplifier la vie.&lt;/li&gt;
+&lt;li&gt;Les modes d’hybridation.&lt;/li&gt;
+&lt;li&gt;Quelques scénarios simples comme le stockage des données froides (sans stretch data) et le DR.&lt;/li&gt;
+&lt;li&gt;Interroger les données en langage naturel.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;10h15 ➤ La gestion des droits dans SQL Server&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;Privileges&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#Privileges&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/sebastien-kobenan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Sébastien Kobenan&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lorsqu&amp;rsquo;on débute sur SQL Server, on est souvent perdu dans la gestion des permissions.&lt;/p&gt;
+&lt;p&gt;On découvre des notions comme serveur, login, user ou role et on ne sait pas toujours les différencier ni dans quelles situations les utiliser.&lt;/p&gt;
+&lt;p&gt;Je vous propose dans cette session de revenir sur les bases de la sécurité dans SQL Server.&lt;/p&gt;
+&lt;p&gt;Nous verrons :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;la différence entre un serveur de base de données, une base de données et un schéma.&lt;/li&gt;
+&lt;li&gt;la différence entre un login, un user et un rôle&lt;/li&gt;
+&lt;li&gt;comment attribuer ou refuser des droits à un utilisateur&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si le temps nous le permet, nous verrons en bonus, les modes d&amp;rsquo;authentification dans SQL Server et surtout l&amp;rsquo;authentification Azure AD dans SQL Server 2022.&lt;/p&gt;
+&lt;h3&gt;11h30 ➤ Migrer un groupe de disponibilité AlwaysOn sans perte du cluster&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;AlwaysOn&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#AlwaysOn&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/stephanescherrer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Stéphane Scherrer, Microsoft&lt;/em&gt;&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Sylvain Pagès, Devoteam&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Comment migrer un Cluster WSFC et AlwaysOn AG sans perte du cluster.&lt;/li&gt;
+&lt;li&gt;Un point sur HA (&lt;em&gt;High Availability&lt;/em&gt;) et DR (&lt;em&gt;Distaster Recovery&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Considérations sur le SLA (&lt;em&gt;Service Level Agreement&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Préparation du groupe de disponibilité.&lt;/li&gt;
+&lt;li&gt;Alors, on conserve le même hardware ou non ?&lt;/li&gt;
+&lt;li&gt;Démo, bien sûr !&lt;/li&gt;
+&lt;li&gt;Retour d&amp;rsquo;expérience&lt;/li&gt;
+&lt;li&gt;Liens et références utiles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;13h30 ➤ Faire cohabiter le décisionnel et le Transactionnel dans SQL Server&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;OLAP&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#OLAP&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/amar-adghar-22b300155/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Amar Adghar, Microsoft&lt;/em&gt;&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/julien-pierre-15782127/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Julien Pierre, Microsoft&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Le but de cette session est de comprendre les principes de la modélisation transactionnelle, versus la modélisation décisionnelle et de voir comment cela se traduit concrètement dans SQL Server.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quelles sont les bonnes pratiques ?&lt;/li&gt;
+&lt;li&gt;Peut-on faire communiquer un environnement décisionnel et transactionnel sur une même instance ? Dans une même base ?&lt;/li&gt;
+&lt;li&gt;Et avec la haute disponibilité, est-ce que ça marche ?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dans cette session nous essaierons de répondre a ces questions et bien plus encore ;) &amp;hellip;&lt;/p&gt;
+&lt;h3&gt;14h45 ➤ Utiliser les indicateurs de requêtes pour aider l&amp;rsquo;optimiseur&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;QueryHints&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#QueryHints&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/arianpapillon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Arian Papillon, Datafly, MVP&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;optimiseur de SQL Server décide du meilleur plan d’exécution et il s’en débrouille plutôt bien. Mais comment faire pour lui forcer la main si on est sûr de pouvoir faire mieux que lui ?&lt;/p&gt;
+&lt;p&gt;Dans cette session, nous parcourons les indicateurs de requêtes (ou &lt;em&gt;Query Hints&lt;/em&gt;) et observons leurs effets.&lt;/p&gt;
+&lt;h3&gt;16h00 ➤ Discussion&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;chat&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#chat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Question ? Anecdotes ? Retours d&amp;rsquo;expérience ? Venez discuter avec nous !&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>DataFrogs 2023.01</title>
+      <link>http://localhost:1313/docs/datafrogs-2023.01.fr/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/datafrogs-2023.01.fr/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Inscrivez-vous sur &lt;a href=&#34;https://www.linkedin.com/events/datafrogs2023-017018305962641874944/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn Events&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;18 mars 2023, en ligne&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;18-mars-2023-en-ligne&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#18-mars-2023-en-ligne&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;DataFrogs est une conférence communautaire gratuite sur Microsoft SQL Server.&lt;/p&gt;
+&lt;p&gt;Cette session aura lieu le samedi 18 mars en virtuel (lien fourni plus tard).&lt;/p&gt;
+&lt;p&gt;Inscrivez-vous sur &lt;a href=&#34;https://www.linkedin.com/events/datafrogs2023-017018305962641874944/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn Events&lt;/a&gt; pour obtenir les informations pratiques.&lt;/p&gt;
+&lt;p&gt;Les sessions seront disponibles pour tous, et concerneront principalement SQL Server on-premises ou sur Azure, le moteur relationnel, vous savez&amp;hellip;&lt;/p&gt;
+&lt;h2&gt;Programme&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;programme&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#programme&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Heure&lt;/th&gt;
+          &lt;th&gt;Session&lt;/th&gt;
+          &lt;th&gt;Qui&lt;/th&gt;
+          &lt;th&gt;Lien&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09h00&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#AzureSynapse&#34; &gt;Azure Synapse, en avant les pools&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sylvain Pagès, Devoteam&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTA5YmM4MzgtNWQ2ZC00MWIwLTkwYjYtOGE1NTY0MDI3M2Mw%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10h15&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#SQLServerDonnees&#34; &gt;SQL Server, les structures de données&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/christophelaporte/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christophe Laporte, ConseilIt, MVP&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTMyYzEyNDMtMGIxOC00NWNhLTgxMWItYmU2NTM5ZWQ4ZTY2%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11h30&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#AlwaysOn&#34; &gt;Les bonnes &lt;em&gt;mauvaises&lt;/em&gt; pratiques des groupes de disponibilité AlwaysOn&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/amar-adghar-22b300155/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amar Adghar, Microsoft&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/stephanescherrer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stéphane Scherrer, Microsoft&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODIxZTg3NzgtMTc3Ny00NTI2LWE0M2EtOTdjMTZjMWM5YzRj%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13h30&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#Lakehouse&#34; &gt;Adoptez une approche Lakehouse pour vos projets BI avec Azure Synapse Analytics&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/sebastien-kobenan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sébastien Kobenan, Exakis Nelite&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDRkZTZkNzAtODk0YS00ZTg2LTllOTktYzk1YTg5MmY2MzQ3%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14h45&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#SqlServer2022&#34; &gt;Les nouveautés SQL Server 2022&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/julien-pierre-15782127/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Julien Pierre, Microsoft&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/comm/in/pascal-deliot-332454&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pascal Deliot, Microsoft&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTFjYWRjZWItN2JlNC00NmI0LWIzYWMtZTgxNGUzODJiYjU4%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16h00&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#fts&#34; &gt;Une histoire de mots&amp;hellip; l&amp;rsquo;indexation textuelle&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/frederic-brouard-alias-sqlpro-914761&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frédéric Brouard, SQL Spot&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/arianpapillon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arian Papillon, Datafly, MVP&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjE1MDM5MGEtZjJkOC00MjgyLTk4M2QtNzM3Y2Q5OTQ1NGZk%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17h15&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;#SQLServerNostalgie&#34; &gt;SQL Server nostalgie&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;La communauté SQL Server francophone&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDY3YmQ4YzYtMGNlOC00YmJhLTk4MTktMmRkMWE2MmUwN2I3%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teams&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;Programme détaillé&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;programme-détaillé&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#programme-d%c3%a9taill%c3%a9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;09h00 ➤ Azure Synapse, en avant les pools&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;AzureSynapse&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#AzureSynapse&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/sylvain-pag%C3%A8s-2b5170107/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Sylvain Pagès, Devoteam&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Avec l&amp;rsquo;arrivé d’Azure Synapse Analytics, nous avons à disposition des pools &lt;em&gt;Dedicated&lt;/em&gt; et &lt;em&gt;Serveless&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;On fait le tour sans casser d’œufs de poules ?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTA5YmM4MzgtNWQ2ZC00MWIwLTkwYjYtOGE1NTY0MDI3M2Mw%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;lien Teams&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;10h15 ➤ SQL Server, les structures de données&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;SQLServerDonnees&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#SQLServerDonnees&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/christophelaporte/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Christophe Laporte, ConseilIt, MVP&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tout développeur ou administrateur de bases de données devrait comprendre comment SQL Server accède aux données.&lt;/p&gt;
+&lt;p&gt;Cette session vous permettra de revoir les basiques sur le stockage des données, les différents types d’index, mais aussi d’évaluer leur usage au travers de DMV/DMF. Les nombreuses démonstrations permettront également de comprendre certains opérateurs des plans d’exécution.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTMyYzEyNDMtMGIxOC00NWNhLTgxMWItYmU2NTM5ZWQ4ZTY2%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;lien Teams&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;11h30 ➤ Les bonnes &lt;em&gt;mauvaises&lt;/em&gt; pratiques des groupes de disponibilité AlwaysOn&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;AlwaysOn&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#AlwaysOn&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/amar-adghar-22b300155/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Amar Adghar, Microsoft&lt;/em&gt;&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/stephanescherrer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Stéphane Scherrer, Microsoft&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Depuis dix ans, les Groupes de Disponibilité (AG pour Availability Groups) AlwaysOn permettent d’implémenter une haute disponibilité de qualité avec SQL Server.
+Encore faut-il les installer et les gérer correctement.
+Cela implique de comprendre le service de Cluster de Windows et les spécificités de cette fonctionnalité dans SQL Server.&lt;/p&gt;
+&lt;p&gt;Dans cette session, Stéphane Scherrer et Amar Adghar vous font bénéficier de leur expérience de terrain au sein de Microsoft pour vous aider à ne pas vous tromper sur les bonnes pratiques pour les AG.&lt;/p&gt;
+&lt;p&gt;Sujets abordés :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rappel des AG AlwaysOn, et fonctionnement du journal de transactions.&lt;/li&gt;
+&lt;li&gt;Les bénéfices des AG sur les clusters de basculement (FCI) : HA+DR, auto-fix pages, DB level failure detection.&lt;/li&gt;
+&lt;li&gt;Retours d’expérience terrain.&lt;/li&gt;
+&lt;li&gt;Les points importants : Worker threads, copie des logins, maintenance AG aware.&lt;/li&gt;
+&lt;li&gt;Interaction WSFC et AG.&lt;/li&gt;
+&lt;li&gt;Les fausses bonnes pratiques.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODIxZTg3NzgtMTc3Ny00NTI2LWE0M2EtOTdjMTZjMWM5YzRj%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;lien Teams&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;13h30 ➤ Adoptez une approche &lt;em&gt;Lakehouse&lt;/em&gt; pour vos projets BI avec Azure Synapse Analytics&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;Lakehouse&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#Lakehouse&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/sebastien-kobenan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Sébastien Kobenan, Exakis Nelite&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Data Warehouse&lt;/em&gt; ou &lt;em&gt;Data Lake&lt;/em&gt; ?&lt;/p&gt;
+&lt;p&gt;Ne choisissez plus. Adoptez une approche &lt;em&gt;Lakehouse&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Vous souhaitez construire une plateforme de données moderne dans votre entreprise ?
+Vous connaissez les &lt;em&gt;Data Warehouse&lt;/em&gt;, solution mature et éprouvée qui existe depuis maintenant plusieurs décennies ?
+Vous avez aussi entendu parler des &lt;em&gt;Data Lakes&lt;/em&gt;, une approche qui s’est particulièrement popularisée au cours de la dernière décennie ?&lt;/p&gt;
+&lt;p&gt;Vous vous demandez quelle approche adopter ?&lt;/p&gt;
+&lt;p&gt;Dans cette session nous allons voir ensemble :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Une architecture d’un projet BI avec une approche &lt;em&gt;Data Warehouse&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Une architecture d’un projet BI avec une approche &lt;em&gt;Data Lake&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Les avantages et les inconvénients de chacune des deux approches.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Et surtout nous allons voir que vous pouvez avoir le meilleur des deux mondes avec une approche &lt;em&gt;Lakehouse&lt;/em&gt; dans Azure Synapse Analytics.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDRkZTZkNzAtODk0YS00ZTg2LTllOTktYzk1YTg5MmY2MzQ3%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;lien Teams&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;14h45 ➤ Les nouveautés SQL Server 2022&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;SqlServer2022&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#SqlServer2022&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/julien-pierre-15782127/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Julien Pierre, Microsoft&lt;/em&gt;&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/comm/in/pascal-deliot-332454&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Pascal Deliot, Microsoft&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2022 a été marqué par de bien nombreux événements : Les élections présidentielles / La guerre en Ukraine / La mort de la reine d&amp;rsquo;Angleterre…  Et l&amp;rsquo;arrivée de SQL Server 2022 !&lt;/p&gt;
+&lt;p&gt;Quoi vous avez loupé ça !
+Aller en route vers le cloud !
+On embarque vers une vague de nouveautés au menu :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Les nouveautés Query Store.&lt;/li&gt;
+&lt;li&gt;Des nouveautés côté Moteur (&lt;em&gt;Built-in Query Intelligence&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;Des nouveautés qui nous emmènent vers l&amp;rsquo;infini et au delà (le cloud).&lt;/li&gt;
+&lt;li&gt;Des bonnes pratiques SQL (c&amp;rsquo;est toujours bien de revenir sur terre ).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bref quelques trucs sympathiques à venir voir !&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTFjYWRjZWItN2JlNC00NmI0LWIzYWMtZTgxNGUzODJiYjU4%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;lien Teams&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;16h00 ➤ Une histoire de mots&amp;hellip; l&amp;rsquo;indexation textuelle&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;fts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#fts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/frederic-brouard-alias-sqlpro-914761&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Frédéric Brouard, SQL Spot&lt;/em&gt;&lt;/a&gt; et &lt;a href=&#34;https://www.linkedin.com/in/arianpapillon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Arian Papillon, Datafly, MVP&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;S&amp;rsquo;il existe des outils externes comme Lucène/SOLR ou Elastic Search ( tous deux basés sur Java), il ne faut pas oublier que l&amp;rsquo;indexation textuelle est née des travaux des éditeurs de bases de données et a été consacrée par le comité de normalisation du langage SQL. Ainsi tous les SGBDR incorporent un outil de recherche textuelle plus ou moins conforme à la norme et plus ou moins performant.&lt;/p&gt;
+&lt;p&gt;Cette présentation à pour but de vous montrer comment réaliser une indexation textuelle des tables et documents électroniques par le biais de Microsoft SQL Server, la gérer, en tirer parti en effectuant des recherches textuelles ou sémantiques et enfin, d&amp;rsquo;en considérer les performances.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjE1MDM5MGEtZjJkOC00MjgyLTk4M2QtNzM3Y2Q5OTQ1NGZk%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;lien Teams&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;17h15 ➤ SQL Server nostalgie&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;SQLServerNostalgie&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#SQLServerNostalgie&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Avec les vieux de la vieille de SQL Server, à micros ouverts.&lt;/p&gt;
+&lt;p&gt;Il paraît que la nostalgie est une mauvaise émotion. Mais ça fait du bien de temps en temps.
+Venez suivre et partager vos anecdotes dans la dernière session de la journée, une session « apéro ».&lt;/p&gt;
+&lt;p&gt;Souvenirs, faits marquants, surprenants, intéressants ou drôles qui nous sont arrivés avec une fonctionnalité des anciennes versions de SQL Server.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDY3YmQ4YzYtMGNlOC00YmJhLTk4MTktMmRkMWE2MmUwN2I3%40thread.v2/0?context=%7b%22Tid%22%3a%225cfe5ed9-932d-40ec-b146-19381d59e099%22%2c%22Oid%22%3a%220793833d-4db6-4d53-ba71-46eacc73020a%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;lien Teams&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>
