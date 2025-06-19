@@ -35,7 +35,7 @@ Les sessions seront disponibles pour tous, et les enregistrements seront ensuite
 
 [_Clément Hugé_](https://www.linkedin.com/in/clementhuge/)
 
-Après une rapide présentation de la fonctionalité et des avantages et inconvénients, nous nous attardderons sur un cas client où CHDS LLC a implémenté une solution élégante pour synchroniser les événements capturés avec les changements de structure. Nous verrons les avantages et inconvénients et comment cette implémentation a permis de réduire les regression de performance dans un contexte de déploiement CICD.
+Après une rapide présentation de la fonctionnalité et des avantages et inconvénients, nous nous attarderons sur un cas client où CHDS LLC a implémenté une solution élégante pour synchroniser les événements capturés avec les changements de structure. Nous verrons les avantages et inconvénients et comment cette implémentation a permis de réduire les régressions de performance dans un contexte de déploiement CICD.
 
 ### 10h15 &#10148; Les Nouveautés dans SQL Server 2025, IA ready ! {#sql2025}
 
