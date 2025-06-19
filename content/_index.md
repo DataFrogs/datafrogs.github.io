@@ -57,7 +57,7 @@ Oracle, PostgreSQL, SQL Server : chacun a sa philosophie du verrou. Frédéric B
 Dans cette session, Frédéric Brouard explore les mécanismes de gestion de la concurrence dans les principaux SGBDR du marché. Vous verrez comment Oracle, PostgreSQL et SQL Server mettent en œuvre les stratégies de verrouillage optimiste et pessimiste, aussi bien au niveau des transactions que du moteur.
 Un focus détaillé sur SQL Server permettra d’illustrer les subtilités des niveaux d’isolation, du snapshot isolation, du row versioning, des verrous explicites et implicites, et des impacts sur les performances. Une session indispensable pour tous ceux qui conçoivent des applications transactionnelles robustes.
 
-### 13h30 &#10148; Les synonymes dans SQL Server + Projet SQL Server dans Visual Studio {#synonymes"} 
+### 13h30 &#10148; Les synonymes dans SQL Server + Projet SQL Server dans Visual Studio {#synonymes} 
 
 [_Sébastien Kobenan_](https://www.linkedin.com/in/sebastien-kobenan/)
 
