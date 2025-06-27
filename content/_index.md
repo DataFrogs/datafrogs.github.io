@@ -24,11 +24,11 @@ Les sessions seront disponibles pour tous, et les enregistrements seront ensuite
 
 | Heure | Session | Qui | Lien |
 | -------- | ------ | ------ | ------ |
-| 09h00 | [Retour d'expérience client sur le change data capture et la gestion des opérations DDL]({{< relref path="#cdc" >}}) | [Clément Hugé](https://www.linkedin.com/in/clementhuge/) | [Lien Teams à venir]() |
-| 10h15 | [Les Nouveautés dans SQL Server 2025, IA ready !]({{< relref path="#sql2025" >}}) | [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) et [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) | [Lien Teams à venir]() |
-| 11h30 | [Verrouillage optimiste vs pessimiste… Les implémentations dans les SGBDR]({{< relref path="#verrouillage" >}}) | [Frédéric Brouard, SQL Spot](https://www.linkedin.com/in/frederic-brouard-alias-sqlpro-914761) | [Lien Teams à venir]() |
-| 13h30 | [Les synonymes dans SQL Server + Projet SQL Server dans Visual Studio]({{< relref path="#synonymes" >}}) | [Sébastien Kobenan](https://www.linkedin.com/in/sebastien-kobenan/) | [Lien Teams à venir]() |
-| 15h15 | [Table Ronde : Vos trucs et astucs pour SQL Server ?]({{< relref path="#tableronde" >}}) | tout le monde | [Lien Teams à venir]() |
+| 09h00 | [Retour d'expérience client sur le change data capture et la gestion des opérations DDL]({{< relref path="#cdc" >}}) | [Clément Hugé](https://www.linkedin.com/in/clementhuge/) | [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTU5OGU2ODctMzI0NS00ZGM4LTk0NjMtMDI3MjQyODQ1OWFj%40thread.v2/0?context=%7b%22Tid%22%3a%22c6f8f5e5-ffac-4e60-83b0-a40c7405938d%22%2c%22Oid%22%3a%22adacf689-b9a1-4dcb-9aa9-5b5d04d1496f%22%7d) |
+| 10h15 | [Les Nouveautés dans SQL Server 2025, IA ready !]({{< relref path="#sql2025" >}}) | [Julien Pierre, Microsoft](https://www.linkedin.com/in/julien-pierre-15782127/) et [Stéphane Scherrer, Microsoft](https://www.linkedin.com/in/stephanescherrer/) | [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mzk2MWMyMjYtMjdjNC00MzFiLWFmMjAtN2E4NDkyODI1Yjc3%40thread.v2/0?context=%7b%22Tid%22%3a%22c6f8f5e5-ffac-4e60-83b0-a40c7405938d%22%2c%22Oid%22%3a%22adacf689-b9a1-4dcb-9aa9-5b5d04d1496f%22%7d) |
+| 11h30 | [Verrouillage optimiste vs pessimiste… Les implémentations dans les SGBDR]({{< relref path="#verrouillage" >}}) | [Frédéric Brouard, SQL Spot](https://www.linkedin.com/in/frederic-brouard-alias-sqlpro-914761) | [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDJiODdlMzctNjRiNC00NTY2LWJkNzQtMzM2MGJjNTY2YmE0%40thread.v2/0?context=%7b%22Tid%22%3a%22c6f8f5e5-ffac-4e60-83b0-a40c7405938d%22%2c%22Oid%22%3a%22adacf689-b9a1-4dcb-9aa9-5b5d04d1496f%22%7d) |
+| 13h30 | [Les synonymes dans SQL Server + Projet SQL Server dans Visual Studio]({{< relref path="#synonymes" >}}) | [Sébastien Kobenan](https://www.linkedin.com/in/sebastien-kobenan/) | [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWRlN2I2MDYtZTU1Yi00NjJhLWFjOGQtYTA0MzQ0MDJjYTMz%40thread.v2/0?context=%7b%22Tid%22%3a%22c6f8f5e5-ffac-4e60-83b0-a40c7405938d%22%2c%22Oid%22%3a%22adacf689-b9a1-4dcb-9aa9-5b5d04d1496f%22%7d) |
+| 15h15 | [Table Ronde : Vos trucs et astucs pour SQL Server]({{< relref path="#tableronde" >}}) | tout le monde | [Lien Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDA3ZmEyZDQtMTQ0MS00ODEyLWE1YjgtOTQxM2Q2Mzk1NzI1%40thread.v2/0?context=%7b%22Tid%22%3a%22c6f8f5e5-ffac-4e60-83b0-a40c7405938d%22%2c%22Oid%22%3a%22adacf689-b9a1-4dcb-9aa9-5b5d04d1496f%22%7d) |
 
 ## Programme détaillé
 
@@ -57,7 +57,7 @@ Oracle, PostgreSQL, SQL Server : chacun a sa philosophie du verrou. Frédéric B
 Dans cette session, Frédéric Brouard explore les mécanismes de gestion de la concurrence dans les principaux SGBDR du marché. Vous verrez comment Oracle, PostgreSQL et SQL Server mettent en œuvre les stratégies de verrouillage optimiste et pessimiste, aussi bien au niveau des transactions que du moteur.
 Un focus détaillé sur SQL Server permettra d’illustrer les subtilités des niveaux d’isolation, du snapshot isolation, du row versioning, des verrous explicites et implicites, et des impacts sur les performances. Une session indispensable pour tous ceux qui conçoivent des applications transactionnelles robustes.
 
-### 13h30 &#10148; Les synonymes dans SQL Server + Projet SQL Server dans Visual Studio {#synonymes} 
+### 13h30 &#10148; Les synonymes dans SQL Server + Projet SQL Server dans Visual Studio {#synonymes}
 
 [_Sébastien Kobenan_](https://www.linkedin.com/in/sebastien-kobenan/)
 
