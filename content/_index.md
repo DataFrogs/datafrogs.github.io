@@ -1,6 +1,6 @@
 +++
 date = '2025-06-18T08:02:05+02:00'
-draft = true
+draft = false
 title = 'Conférences DataFrogs'
 +++
 
